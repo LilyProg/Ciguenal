@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tours Ciguenal SAC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_parrafo">Tours a nivel nacional</string>
+</resources>
